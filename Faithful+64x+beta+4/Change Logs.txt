@@ -1,0 +1,52 @@
+- Added Blocks -
+* Kelp (Harag0n)
+* Raw Gold Block (Harag0n)
+* Honey Block (Harag0n)
+* Weathered Cut Copper
+* Weathered Copper (Harag0n)
+* Exposed Cut Copper (Harag0n)
+* Tripwire (Harag0n)
+* Old Stone Cutter (Bedrock Only) (McKovosky)
+
+- Added Items -
+* Filled Map Markings (Harag0n)
+
+- Added Entities -
+* Wandering Trader (Harag0n)
+* Piglin Brute (Harag0n)
+* Parrots (Harag0n)
+* Husk (Harag0n)
+* Bat (Harag0n)
+* Evoker Fangs (Harag0n)
+* Enchanting Table Book (miniluv73)
+
+- Added Effect -
+* Blindness (miniluv73)
+* Health Boost (miniluv73)
+
+- Changed Blocks -
+* Grass (Harag0n)
+* Gravel (Harag0n)
+* Tall Grass (Harag0n)
+* Stone (Harag0n)
+* All Ores (Harag0n)
+* Dead Bush (Harag0n)
+* Smooth Stone (Harag0n)
+* Basalt Top (Harag0n)
+* Grass Block Top (Harag0n)
+* Dirt Path Top (Harag0n)
+* Composter Bottom (Zeuselpro)
+* Dandelion (Evorp)
+* Wool (Evorp)
+* Lectern Base (Evorp)
+
+- Changed Item -
+* Armor Stand (Evorp)
+* Mellowi Music Disc (miniluv73)
+* Sea Pickel (DMgaming)
+
+- Changed Entities -
+* Zombies (Harag0n)
+
+- Added Particles -
+* Bubble (JogurciQ)
